@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">LinuxContributors</string>
+    <string name="activity_main_loadingDialog_title">Načítám</string>
+    <string name="activity_main_loadingDialog_message">Načítám seznam přispěvatelů z GitHubu…</string>
+    <string name="activity_main_failureDialog_title">Chyba</string>
+    <string name="activity_main_failureDialog_message">Došlo k chybě v datech. Zkontrolujte, prosím, své připojení k Internetu a zopakujte akci později.</string>
+    <string name="list_row_ivwAvatarContentDescription">Avatar</string>
+    <string name="menu_main_refresh">Obnovit</string>
+
+</resources>
